@@ -1,0 +1,6 @@
+.song-detail-no {
+    text-align: center !important;
+    position: relative;
+    top: 50% !important;
+    transform: translateY(-50%);
+}
